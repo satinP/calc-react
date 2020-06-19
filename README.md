@@ -6,7 +6,7 @@
  - executar npm install
  - react-native run-android OU react-native run-ios
 
-
+![App Demo](https://imgur.com/2TafAm8 "React Calc")
 ![App Demo](https://imgur.com/2TafAm8)
 
 #### APK Link:
