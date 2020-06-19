@@ -10,4 +10,4 @@
 ![App Demo](https://imgur.com/2TafAm8)
 
 #### APK Link:
-[Download APK](https://drive.google.com/file/d/1hK6HDBfx7d32rMsJi25ombrNXFWtCHUj/view?usp=sharing
+[Download APK](https://drive.google.com/file/d/1hK6HDBfx7d32rMsJi25ombrNXFWtCHUj/view?usp=sharing)
