@@ -9,4 +9,4 @@
 #### APK Link:
 [Download APK](https://drive.google.com/file/d/1hK6HDBfx7d32rMsJi25ombrNXFWtCHUj/view?usp=sharing)
 
-<img src="/demo/react_calc_gif.gif?raw=true" width="50%">
+<img src="/demo/react_calc_gif.gif?raw=true" width="25%">
