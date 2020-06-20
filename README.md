@@ -1,3 +1,5 @@
+<img src="/demo/react_calc_gif.gif?raw=true" align="right" width="20%">
+
 ## Calculadora
 
 ### App desenvolvido utilizando react-native
@@ -8,5 +10,3 @@
 
 #### APK Link:
 [Download APK](https://drive.google.com/file/d/1hK6HDBfx7d32rMsJi25ombrNXFWtCHUj/view?usp=sharing)
-
-<img src="/demo/react_calc_gif.gif?raw=true" width="20%">
